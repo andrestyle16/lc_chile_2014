@@ -1,0 +1,40 @@
+code,secondary,primary,secondary_english,primary_english
+110,arrozal,arrozal,arrozal,arrozal
+120,invernaderos,invernaderos,invernaderos,invernaderos
+130,otros cultivos,otros cultivos,otros cultivos,otros cultivos
+140,huertos,huertos,huertos,huertos
+150,barbechos,barbechos,barbechos,barbechos
+211,nativo de hoja ancha primario,nativo de hoja ancha primario,nativo de hoja ancha primario,nativo de hoja ancha primario
+212,nativo de hoja ancha renoval,nativo de hoja ancha renoval,nativo de hoja ancha renoval,nativo de hoja ancha renoval
+221,nativo de conifera primario,nativo de conifera primario,nativo de conifera primario,nativo de conifera primario
+222,nativo de conifera renoval,nativo de conifera renoval,nativo de conifera renoval,nativo de conifera renoval
+231,mixto primario,mixto primario,mixto primario,mixto primario
+232,mixto renoval,mixto renoval,mixto renoval,mixto renoval
+241,plantaciones de hoja ancha adulta,plantaciones de hoja ancha adulta,plantaciones de hoja ancha adulta,plantaciones de hoja ancha adulta
+242,plantaciones de hoja ancha cosechas,plantaciones de hoja ancha cosechas,plantaciones de hoja ancha cosechas,plantaciones de hoja ancha cosechas
+251,plantaciones de coniferas adultas,plantaciones de coniferas adultas,plantaciones de coniferas adultas,plantaciones de coniferas adultas
+252,plantaciones de coniferas cosechas,plantaciones de coniferas cosechas,plantaciones de coniferas cosechas,plantaciones de coniferas cosechas
+311,praderas anuales,praderas anuales,praderas anuales,praderas anuales
+312,praderas perennes,praderas perennes,praderas perennes,praderas perennes
+320,otros pastizales,otros pastizales,otros pastizales,otros pastizales
+330,pastizales aridos,pastizales aridos,pastizales aridos,pastizales aridos
+410,matorral,matorral,matorral,matorral
+420,matorral arborescentes,matorral arborescentes,matorral arborescentes,matorral arborescentes
+430,suculentas,suculentas,suculentas,suculentas
+440,plantacion de matorral,plantacion de matorral,plantacion de matorral,plantacion de matorral
+450,otros matorrales aridos,otros matorrales aridos,otros matorrales aridos,otros matorrales aridos
+510,marismas,marismas,marismas,marismas
+520,pantanos,pantanos,pantanos,pantanos
+530,otros humedales,otros humedales,otros humedales,otros humedales
+610,lagos,lagos,lagos,lagos
+620,reservorios,reservorios,reservorios,reservorios
+630,rios,rios,rios,rios
+640,oceano,oceano,oceano,oceano
+800,superficies impermeables,superficies impermeables,superficies impermeables,superficies impermeables
+910,salares,salares,salares,salares
+920,suelos arenosos,suelos arenosos,suelos arenosos,suelos arenosos
+931,suelos rocosos rocas,suelos rocosos rocas,suelos rocosos rocas,suelos rocosos rocas
+932,suelos rocosos gravas,suelos rocosos gravas,suelos rocosos gravas,suelos rocosos gravas
+1010,nieve,nieve,nieve,nieve
+1020,hielo,hielo,hielo,hielo
+1210,nubes,nubes,nubes,nubes
