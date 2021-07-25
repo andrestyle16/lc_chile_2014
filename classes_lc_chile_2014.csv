@@ -1,0 +1,40 @@
+code,nivel_2,nivel_1,level_2,level_1
+110,arrozales,cultivos,rice fields,croplands
+120,invernaderos,cultivos,greenhouse farming,croplands
+130,otros cultivos,cultivos,other croplands,croplands
+140,huertos,cultivos,orchards,croplands
+150,barbechos,cultivos,bare croplands/fallows,croplands
+211,nativo de hoja ancha primario,bosques,natural broadleaf - primary,forests
+212,nativo de hoja ancha renoval,bosques,natural broadleaf - secondary,forests
+221,nativo de conifera primario,bosques,natural conifer - primary,forests
+222,nativo de conifera renoval,bosques,natural conifer - secondary,forests
+231,mixtos primarios,bosques,natural mixed - primary,forests
+232,mixtos renovales,bosques,natural mixed - secondary,forests
+241,plantaciones de hoja ancha adulta,bosques,broadleaf plantations - old,forests
+242,plantaciones de hoja ancha cosechas,bosques,broadleaf plantations - clearcuts,forests
+251,plantaciones de coniferas adultas,bosques,conifer plantations - old,forests
+252,plantaciones de coniferas cosechas,bosques,conifer plantations - clearcuts,forests
+311,praderas anuales,pastizales,annual pastures,grasslands
+312,praderas perennes,pastizales,perennial pastures,grasslands
+320,otros pastizales,pastizales,other grasslands,grasslands
+330,pastizales aridos,pastizales,withered grasslands,grasslands
+410,matorrales,matorral,shrublands,shrublands
+420,matorrales arborescentes,matorral,shrubs and sparse trees mosaic,shrublands
+430,suculentas,matorral,succulents,shrublands
+440,plantacion de matorrales,matorral,shrub plantations,shrublands
+450,otros matorrales aridos,matorral,withered shrublands,shrublands
+510,marismas,humedales,marshlands,wetlands
+520,pantanos,humedales,mudflats,wetlands
+530,otros humedales,humedales,other wetlands,wetlands
+610,lagos,cuerpos de agua,lakes,water bodies
+620,reservorios,cuerpos de agua,reservoirs/ponds,water bodies
+630,rios,cuerpos de agua,rivers,water bodies
+640,oceano,cuerpos de agua,ocean,water bodies
+800,superficies impermeables,superficies impermeables,impervious surfaces,impervious surfaces
+910,salares,tierras desnudas,dry salt flats,barren lands
+920,suelos arenosos,tierras desnudas,sandy areas,barren lands
+931,suelos rocosos - rocas,tierras desnudas,bare exposed rocks - rocks,barren lands
+932,suelos rocosos - gravas,tierras desnudas,bare exposed rocks - gravels,barren lands
+1010,nieve,hielo y nieves,snow,snow and ice
+1020,hielo,hielo y nieves,ice,snow and ice
+1210,nubes,nubes,clouds,clouds
